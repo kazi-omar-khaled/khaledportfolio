@@ -20,9 +20,10 @@ const Intro = () => {
                     <span>Kazi Omar Khaled</span>
                     <span>Front-End Web Developer</span>
                 </div>
-                <a href="https://drive.google.com/file/d/1xWZON9upcN6cewfd8MrsGIO-iNA1UI2N/view?usp=sharing" target="_blank">
+                <a href="https://drive.google.com/file/d/1NCpoA1krMcKBzyKbFDcPm9tBannqBJVw/view?usp=sharing" target="_blank">
                     <button className="button i-button">My Resume</button>
                 </a>
+
 
                 <div className="i-icons">
                     <a href="https://github.com/kazi-omar-khaled" target="_blank">

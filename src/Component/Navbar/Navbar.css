@@ -9,11 +9,13 @@
     align-items: center;
     display: flex;
     gap: 2rem;
+
 }
 
 .n-name {
     font-size: 1.3 rem;
     font-weight: bold;
+    text-decoration: none;
 }
 
 .n-right {
