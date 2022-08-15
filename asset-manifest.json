@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/khaledportfolio/static/css/main.fb77d197.css",
-    "main.js": "/khaledportfolio/static/js/main.5db3b89b.js",
+    "main.css": "/khaledportfolio/static/css/main.000267a6.css",
+    "main.js": "/khaledportfolio/static/js/main.13fd824a.js",
     "static/media/boy.png": "/khaledportfolio/static/media/boy.f48125621932da1dc978.png",
     "static/media/localmart.jpg": "/khaledportfolio/static/media/localmart.eda140ea036fd5d1d814.jpg",
     "static/media/simplecalculator.jpg": "/khaledportfolio/static/media/simplecalculator.8b40831dbd474c1ea558.jpg",
     "static/media/addcontact.jpg": "/khaledportfolio/static/media/addcontact.504d72e0a38953253077.jpg",
     "index.html": "/khaledportfolio/index.html",
-    "main.fb77d197.css.map": "/khaledportfolio/static/css/main.fb77d197.css.map",
-    "main.5db3b89b.js.map": "/khaledportfolio/static/js/main.5db3b89b.js.map"
+    "main.000267a6.css.map": "/khaledportfolio/static/css/main.000267a6.css.map",
+    "main.13fd824a.js.map": "/khaledportfolio/static/js/main.13fd824a.js.map"
   },
   "entrypoints": [
-    "static/css/main.fb77d197.css",
-    "static/js/main.5db3b89b.js"
+    "static/css/main.000267a6.css",
+    "static/js/main.13fd824a.js"
   ]
 }
